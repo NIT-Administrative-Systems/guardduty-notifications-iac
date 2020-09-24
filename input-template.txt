@@ -1,0 +1,7 @@
+"You have a severity <severity> GuardDuty finding type <finding_type>."
+"Account: <account_id>"
+"Region: <region>"
+"Title: <title>"
+"Finding Description:"
+"<description>. "
+"For more details open the GuardDuty console at https://console.aws.amazon.com/guardduty/home?region=<region>#/findings?search=id%3D<finding_id>"
